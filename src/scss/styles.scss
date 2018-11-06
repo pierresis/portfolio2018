@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+// Import reset
+@import "variables.scss";
+@import "grid.scss";
+@import "reset.scss";
+
+// Container
+.container {
+    max-width: 1200px;
+    width: 100%;
+}
