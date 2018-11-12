@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif|Raleway:400,700);html {
+@import url(https://fonts.googleapis.com/css?family=PT+Serif|Raleway:400,700);
+
+html {
   background-color: #FFFFFF;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
